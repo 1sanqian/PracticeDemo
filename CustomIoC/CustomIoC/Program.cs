@@ -1,3 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using CustomIoC.Containers;
+using CustomIoC.Controllers;
+using CustomIoC.Servicers;
 
-Console.WriteLine("Hello, World!");
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        var myContainer = new MyContainer();
+        
+        myContainer.Register<ICarService,CarService>();
+        
+        var carController = new CarController(myContainer.Resolve<ICarService>());
+        
+        carController.MyAction();
+    }
+}
