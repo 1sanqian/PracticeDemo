@@ -1,0 +1,15 @@
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/bin/Debug/net6.0/CustomIoC
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/bin/Debug/net6.0/CustomIoC.deps.json
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/bin/Debug/net6.0/CustomIoC.runtimeconfig.json
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/bin/Debug/net6.0/CustomIoC.dll
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/bin/Debug/net6.0/CustomIoC.pdb
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.AssemblyInfoInputs.cache
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.AssemblyInfo.cs
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.csproj.CoreCompileInputs.cache
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.sourcelink.json
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.dll
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/refint/CustomIoC.dll
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.pdb
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/CustomIoC.genruntimeconfig.cache
+/Users/freya/AllDemo/PracticeDemo/CustomIoC/CustomIoC/obj/Debug/net6.0/ref/CustomIoC.dll
